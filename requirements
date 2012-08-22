@@ -1,0 +1,5 @@
+distribute==0.6.28
+isodate==0.4.8
+rdflib==3.2.1
+virtualenv==1.7.2
+wsgiref==0.1.2
